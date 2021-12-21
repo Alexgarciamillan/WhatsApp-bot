@@ -2,10 +2,10 @@
 <img src="https://github.com/Alexgarciamillan/bodysuit/blob/bb79f9963fafd71d0e59a1177675f5f614d1c552/avatas.jpg" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="bodysuit" src="https://img.shields.io/badge/bodysuit-bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ArugaZ"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARUGAZ-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ArugaZ"><img title="Author" src="https://img.shields.io/badge/AUTHOR-alex-garcia-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/badge/master"></a>
