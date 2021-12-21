@@ -19,13 +19,13 @@
 </p>
 <div align="center">
 <details>
- <summary>🥟 Help me!</summary>
+ <summary>馃 Help me!</summary>
  
  [Trakteer](https://trakteer.id/arugabot)
  
 </details>
 
-ini semua gratis, jangan pelit ⭐️ ya :D
+ini semua gratis, jangan pelit 猸愶笍 ya :D
 <p align="center"><a href="https://www.arugaz.my.id" target="_blank">ArugaZ Rest Api</a>.</p>
 <p align="center"><a href="https://instagram.com/ini.kocakz/" target="_blank">Chat me on Insta</a>.</p>
 </div>
@@ -76,106 +76,106 @@ after running it you need to scan the qr
 
 | 18+ |Yes|
 | ------------- | ------------- |
-| Nekopoi |✅|
+| Nekopoi |鉁厊
 
 | Creator |Yes|
 | ------------- | ------------- |
-| Respond img to sticker|✅|
-| Respond img to sticker no bg|✅|
-| Respond url to sticker|✅|
-| Respond gif to sticker|✅|
-| Respond giphy url to sticker|✅|
-| Make a meme from photo|✅|
-| Quotes maker result pict|✅|
-| Nulis Bot|✅|
+| Respond img to sticker|鉁厊
+| Respond img to sticker no bg|鉁厊
+| Respond url to sticker|鉁厊
+| Respond gif to sticker|鉁厊
+| Respond giphy url to sticker|鉁厊
+| Make a meme from photo|鉁厊
+| Quotes maker result pict|鉁厊
+| Nulis Bot|鉁厊
 
 | Islam |Yes|
 | ------------- | ------------- |
-| List Surah|✅|
-| Info Surah|✅|
-| Surah|✅|
-| Tafsir Alquran|✅|
-| Alquran Audio/Voice|✅|
-| Jadwal solat|✅|
+| List Surah|鉁厊
+| Info Surah|鉁厊
+| Surah|鉁厊
+| Tafsir Alquran|鉁厊
+| Alquran Audio/Voice|鉁厊
+| Jadwal solat|鉁厊
 
 | Downloader |Yes|
 | ------------- | ------------- |
-| Youtube Music |✅|
-| Youtube Video |✅|
-| Facebook |✅|
+| Youtube Music |鉁厊
+| Youtube Video |鉁厊
+| Facebook |鉁厊
 
 | Fun Group! |Yes|
 | ------------- | ------------- |
-| Simi-simi BOT|✅|
-| Anti kata kasar|✅|
+| Simi-simi BOT|鉁厊
+| Anti kata kasar|鉁厊
 
 | Primbon |Yes|
 | ------------- | ------------- |
-| Arti nama |✅|
-| Cek Jodoh |✅|
+| Arti nama |鉁厊
+| Cek Jodoh |鉁厊
 
 | Searchs |Yes|
 | ------------- | ------------- |
-| Images |✅|
-| Subreddit |✅|
-| Resep makanan |✅|
-| Stalk IG |✅|
-| Wikipedia |✅|
-| Cuaca |✅|
-| Chord musik |✅|
-| Lirik musik |✅|
-| Screen Crot!|✅|
-| Play music|✅|
-| whats anime?|✅|
+| Images |鉁厊
+| Subreddit |鉁厊
+| Resep makanan |鉁厊
+| Stalk IG |鉁厊
+| Wikipedia |鉁厊
+| Cuaca |鉁厊
+| Chord musik |鉁厊
+| Lirik musik |鉁厊
+| Screen Crot!|鉁厊
+| Play music|鉁厊
+| whats anime?|鉁厊
 
 | Random text |Yes|
 | ------------- | ------------- |
-| Pantun pakboy|✅|
-| Fakta Menarik|✅|
-| Kata Bijak|✅|
-| Quotes|✅|
-| Cerita Sex|✅|
-| Cerita Pendek|✅|
-| Puisi|✅|
+| Pantun pakboy|鉁厊
+| Fakta Menarik|鉁厊
+| Kata Bijak|鉁厊
+| Quotes|鉁厊
+| Cerita Sex|鉁厊
+| Cerita Pendek|鉁厊
+| Puisi|鉁厊
 
 | Random image |Yes|
 | ------------- | ------------- |
-| Anime |✅|
-| Kpop |✅|
-| Memes |✅|
+| Anime |鉁厊
+| Kpop |鉁厊
+| Memes |鉁厊
 
 
 | Others |Yes|
 | ------------- | ------------- |
-| Teks to Sound/Voice|✅|
-| Translate teks|✅|
-| Get covid info from map|✅|
-| Covid-19 Indo|✅|
-| Shortlink|✅|
-| Bap4k F0nt|✅|
+| Teks to Sound/Voice|鉁厊
+| Translate teks|鉁厊
+| Get covid info from map|鉁厊
+| Covid-19 Indo|鉁厊
+| Shortlink|鉁厊
+| Bap4k F0nt|鉁厊
 
 | Groups |Yes|
 | ------------- | ------------- |
 | Owner||
-| Kick all members|✅|
+| Kick all members|鉁厊
 | Admin||
-| Add user|✅|
-| Kick user|✅|
-| Promote User|✅|
-| Demote User|✅|
-| Mute Group|✅|
-| Change Group icon|✅|
-| Delete bot msg|✅|
-| Tagall/mentions all|✅|
-| Welcome ON/OFF|✅|
+| Add user|鉁厊
+| Kick user|鉁厊
+| Promote User|鉁厊
+| Demote User|鉁厊
+| Mute Group|鉁厊
+| Change Group icon|鉁厊
+| Delete bot msg|鉁厊
+| Tagall/mentions all|鉁厊
+| Welcome ON/OFF|鉁厊
 
 
 | Owner bot |Yes|
 | ------------- | ------------- |
-| Broadcast|✅|
-| Leave all group|✅|
-| Delete all msgs|✅|
-| Banned user|✅|
+| Broadcast|鉁厊
+| Leave all group|鉁厊
+| Delete all msgs|鉁厊
+| Banned user|鉁厊
 
 
 ## To-Do
